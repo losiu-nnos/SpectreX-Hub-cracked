@@ -1,7 +1,3 @@
--- [[ @ dsc.gg/6vms | by leakd cuhh ]]
--- This Fіlе Wаs Deоbfuѕсatеԁ Вy LeaκD
--- https://leakd.vercel.app
-
 local starterGui = game:GetService("StarterGui")
 local coreGui = game:GetService("CoreGui")
 local players = game:GetService("Players")
@@ -1489,5 +1485,3 @@ creditsTab:CreateButton({
     rayfield:Notify({ Title = "Telegram", Content = "Link copied!", Duration = 8 })
   end,
 })
-
--- https://leakd.vercel.app
